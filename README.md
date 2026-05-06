@@ -267,5 +267,4 @@ This project successfully implemented QR code recognition and perspective correc
 
 The project demonstrated how computer vision can be used to make QR code recognition more reliable under real-world conditions such as partial damage and angled camera views.
 
-```
-```
+
